@@ -3,4 +3,4 @@ class Book
   
 end
 
-Nook.new("")
+Book.new("And Then There Were None")
