@@ -15,3 +15,6 @@ class Shoe
   
 
 end
+
+shoe = Shoe.new("condition")
+book.cobble
